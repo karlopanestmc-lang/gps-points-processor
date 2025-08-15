@@ -15,11 +15,6 @@ A PHP script that processes shuffled GPS points, cleans invalid data, creates tr
 ## Usage
 
 ```bash
-php your_script.php <csv_file>
-```
-
-Example:
-```bash
 php script.php points.csv
 ```
 
