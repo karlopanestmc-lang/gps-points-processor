@@ -4,7 +4,7 @@ A PHP script that processes shuffled GPS points, cleans invalid data, creates tr
 
 ## Files
 
-- `your_script.php` - Main processing script
+- `script.php` - Main processing script
 - `README.md` - This documentation
 
 ## Requirements
@@ -20,7 +20,7 @@ php your_script.php <csv_file>
 
 Example:
 ```bash
-php your_script.php points.csv
+php script.php points.csv
 ```
 
 ## Input Format
